@@ -99,6 +99,7 @@ main {
 
   .info {
     text-align: center;
+    padding: 0 1em;
   }
   .image {
     /* width: 360px; */
@@ -107,6 +108,10 @@ main {
 }
 
 @media screen and (max-width: 375px) {
+  .header img {
+    width: 130px;
+    height: 100px;
+  }
   .info {
     padding: 0 1em;
   }
