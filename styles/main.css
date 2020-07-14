@@ -80,6 +80,10 @@ main {
   box-sizing: border-box;
 }
 
+.social-media .fab:hover {
+  color: var(--violet);
+  background-color: white;
+}
 
 
 @media screen and (max-width: 768px) {
