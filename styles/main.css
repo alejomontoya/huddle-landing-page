@@ -10,7 +10,7 @@ body {
   background-color: var(--violet);
   background-image: url('../images/bg-desktop.svg');
   color: white;
-  background-size: contain;
+  background-repeat: no-repeat;
 }
 
 button {
