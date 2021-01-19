@@ -19,14 +19,14 @@ button {
 }
 
 .wrapper {
-  max-width: 1240px;
+  max-width: 1140px;
   margin: auto;
   padding: 0 1em;
 }
 
 .header img {
-  width: 200px;
-  height: 120px;
+  width: 160px;
+  height: 100px;
 }
 
 main {
